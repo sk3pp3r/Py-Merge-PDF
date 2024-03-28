@@ -10,7 +10,7 @@ This Python script merges multiple PDF files located in a specified folder into 
 
 ### Prerequisites
 - Python installed on your machine
-- PyPDF2 library installed (`shell > pip install PyPDF2`)
+- PyPDF2 library installed (`shell > pip install PyPDF2` or `pip install -r requirements.txt` )
 
 ### Usage
 1. Clone this repository or download the `app.py` script.
