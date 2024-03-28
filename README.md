@@ -1,4 +1,5 @@
 # PDF Merger Python Script
+![pdf](https://github.com/sk3pp3r/Py-Merge-PDF/assets/15815967/d02ab0a5-0232-4d20-8f03-91277930fca2)
 
 ## Description
 This Python script merges multiple PDF files located in a specified folder into a single PDF file. It uses the PyPDF2 library for PDF manipulation.
