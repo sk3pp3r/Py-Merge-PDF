@@ -15,12 +15,10 @@ This Python script merges multiple PDF files located in a specified folder into 
 ### Usage
 1. Clone this repository or download the `merge_pdfs.py` script.
 2. Open a terminal and navigate to the directory containing the script.
-3. Edit the script to set the `input_folder` and `output_file` variables.
-4. Run the script using the command: `python merge_pdfs.py`
-5. The merged PDF will be saved to the specified `output_file`.
+3. Run Python app.py /path/to/pdf/files /path/to/merged/pdf/merged.pdf
 
 ## Example
 ```python
 # Example usage
-python app.py /path/to/pdf/files /path/to/merged/pdf/merged.pdf
+python app.py /doc/pdf-files /doc/pdf-files/merged.pdf
 Merged PDF saved to: /path/to/merged/pdf/merged.pdf
