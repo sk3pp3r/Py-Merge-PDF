@@ -33,3 +33,7 @@ if __name__ == "__main__":
 
     merge_pdfs(input_folder, output_file)
     print(f"Merged PDF saved to: {output_file}")
+
+def test_dummy():
+    pass
+
