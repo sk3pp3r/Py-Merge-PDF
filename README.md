@@ -10,12 +10,12 @@ This Python script merges multiple PDF files located in a specified folder into 
 
 ### Prerequisites
 - Python installed on your machine
-- PyPDF2 library installed (`pip install PyPDF2`)
+- PyPDF2 library installed (`shell > pip install PyPDF2`)
 
 ### Usage
-1. Clone this repository or download the `merge_pdfs.py` script.
+1. Clone this repository or download the `app.py` script.
 2. Open a terminal and navigate to the directory containing the script.
-3. Run Python app.py /path/to/pdf/files /path/to/merged/pdf/merged.pdf
+3. Run `shell > python app.py /path/to/pdf/files /path/to/merged/pdf/merged.pdf`
 
 ## Example
 ```python
