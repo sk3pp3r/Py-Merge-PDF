@@ -22,7 +22,5 @@ This Python script merges multiple PDF files located in a specified folder into 
 ## Example
 ```python
 # Example usage
-input_folder = '/path/to/pdf/files'
-output_file = '/path/to/merged/pdf/merged.pdf'
-merge_pdfs(input_folder, output_file)
-print(f"Merged PDF saved to: {output_file}")
+python app.py /path/to/pdf/files /path/to/merged/pdf/merged.pdf
+Merged PDF saved to: /path/to/merged/pdf/merged.pdf
